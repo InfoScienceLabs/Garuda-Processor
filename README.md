@@ -3,7 +3,7 @@ Garuda-Processor is mainly Transation processor of Hyperledger Sawtooth.
 
 ## Getting Started
 
-follow the below instructions to Start with Garuda API
+follow the below instructions to Start with Garuda Processor
 
 ### Prerequisites
 This is the tech Stack we are using to develop Garuda API. Make sure you are familiar with all of these:-
