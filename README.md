@@ -30,5 +30,9 @@ ts-node index.ts
 
 See also the list of [contributors](https://github.com/Infosciencelabsdev/Garuda/graphs/contributors) who participated in this project.
 
+## Contact Us
+  Email:- info@infoscience.co
 ## License
+This project is licensed under the Apache License- see the [LICENSE.md](https://github.com/Infosciencelabsdev/Garuda/blob/master/LICENSE.md) file for details
+
 
